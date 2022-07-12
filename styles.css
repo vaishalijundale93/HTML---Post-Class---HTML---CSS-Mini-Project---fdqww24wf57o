@@ -1,1 +1,30 @@
-
+#answerstyle{
+    width: 460px;
+}
+#clear{
+    width: 480px;
+}
+.formstyle{
+    width: 500px;
+    height: 650px;
+    margin:auto;
+    border: 7px solid blacks;
+    padding: 20px;
+    background:grey;
+    background-image: url(./images/blacktheme.png);
+}
+input{
+    width: 110px;
+    background-color:azure;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:20px;
+    border-radius: 15px;
+    margin-right: 12px;
+}
+.formstyle .heading h1{
+    text-align: center;
+    font-size: 40px;
+   color: white;
+}
